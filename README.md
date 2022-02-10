@@ -1,6 +1,6 @@
 <p align="center">
 
-![Screenshot](https://raw.githubusercontent.com/deligoez/phpstorm-deligoez-light-theme/master/screenshots/php.png)
+![Screenshot](./screenshots/php.png)
 
 </p>
 
