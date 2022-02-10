@@ -1,11 +1,10 @@
 <p align="center">
 
-![Screenshot](./screenshots/php.png)
-
-</p>
-
+![Screenshot](./screenshots/cover.png)
 
 # Deligoez Theme
+
+</p>
 
 This is a minimalist light color scheme for PhpStorm.
 
@@ -22,11 +21,19 @@ This is a minimalist light color scheme for PhpStorm.
 ## Screnshots
 
 ### PHP
-
-![PHP](https://raw.githubusercontent.com/deligoez/phpstorm-deligoez-light-theme/master/screenshots/php.png)
+![PHP](./screenshots/php.png)
 
 ### HTML
+![HTML](./screenshots/html.png)
+
+### Javascript
+![Javascript](./screenshots/javascript.png)
 
 ### JSON
+![JSON](./screenshots/json.png)
+
+### CSS
+![CSS](./screenshots/css.png)
 
 ### YAML
+![YAML](./screenshots/yaml.png)
